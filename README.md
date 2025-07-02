@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @driaz
-- 👀 I’m interested in the future of XR and VR technologies, including real-time 3D graphics and the evolution of HMDs.
-- 🌱 I’m currently developing in Unity and C# programming to build and create both XR and flat-screen experiences.
-- 💞️ I’m looking to collaborate on XR and Unity projects.
+- 👀 I’m interested in the future of real-time 3D graphics and generative AI.
+- 🌱 I’m currently developing in Unity and Unreal to build and create both XR and flat-screen experiences.
+- 💞️ I’m looking to collaborate on Unity, Unreal or generative AI projects.
 - 📫 Feel free to reach me at daniel.riaz@gmail.com
 
 <!---
